@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 27.08.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Nandhana.R
+###  ROLL NO :212223040124
+###  DEPARTMENT: CSE
 
 
 
@@ -88,10 +88,20 @@ The main features of LPC2148 include the following.
 ## STM 32 CUBE PROGRAM :
 
 
+![Screenshot 2024-08-28 205128](https://github.com/user-attachments/assets/f4bef838-bc30-4c7c-b0d4-804dfcd9d4de)
+
+
+
+
 
 
 
 ## OUTPUT  :
+
+
+
+![Screenshot 2024-08-28 205149](https://github.com/user-attachments/assets/fd57b763-07ad-4b2f-be1f-46c37da079a2)
+
  
  
  
