@@ -100,9 +100,8 @@ The main features of LPC2148 include the following.
 
 
 
-![Screenshot 2024-08-28 205149](https://github.com/user-attachments/assets/fd57b763-07ad-4b2f-be1f-46c37da079a2)
+![Screenshot 2024-08-29 085229](https://github.com/user-attachments/assets/df10fd8c-a65d-448e-91e7-e41ce0d002c6)
 
- 
  
  
  
