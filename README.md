@@ -88,8 +88,7 @@ The main features of LPC2148 include the following.
 ## STM 32 CUBE PROGRAM :
 
 
-![Screenshot 2024-08-28 205128](https://github.com/user-attachments/assets/f4bef838-bc30-4c7c-b0d4-804dfcd9d4de)
-
+![Screenshot 2024-08-29 085436](https://github.com/user-attachments/assets/c11210c3-e1dc-47b6-94ff-f9a5a401b0d7)
 
 
 
